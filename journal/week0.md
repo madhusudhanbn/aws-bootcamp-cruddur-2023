@@ -3,8 +3,13 @@
 ## Conceptual Architecture Diagram
 ![Conceptual Architecture Diagram](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-bootcamp-cruddur-2023-conceptual-architecture-diagram.png)
 
+###
+[Lucidchart - Conceptual Architecture Diagram](https://lucid.app/lucidchart/2bf96275-cfe2-4990-bdcd-1ff2a3e3e9d7/edit?invitationId=inv_1b85adcd-02b5-4f51-9fdc-8fa51868fc71)
+
+***
+
 ## Logical Architecture Diagram
 ![Logical Architecture Diagram](assets/aws-bootcamp-cruddur-2023-logical-architecture.png)
 
 ###
-[LucidChart Architecture Diagram](https://lucid.app/lucidchart/c5049a3e-eeff-458e-a63b-a363c547e187/edit?viewport_loc=-81%2C-29%2C2048%2C1085%2C0_0&invitationId=inv_88f1477c-0ad5-4e3e-9db2-a0b179b3b578)
+[Lucidchart Logical Architecture Diagram](https://lucid.app/lucidchart/c5049a3e-eeff-458e-a63b-a363c547e187/edit?viewport_loc=-81%2C-29%2C2048%2C1085%2C0_0&invitationId=inv_88f1477c-0ad5-4e3e-9db2-a0b179b3b578)
