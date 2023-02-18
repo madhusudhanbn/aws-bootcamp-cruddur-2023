@@ -20,7 +20,8 @@
 
 ![Setup Gitpod](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/awscli-gitpod-terminal.png)
 
-I have configureed AWS Environment Variables in Gitpod
+I have configured AWS Environment Variables in Gitpod [here](https://gitpod.io/user/variables).
+
 ```bash
 AWS_SSO_URL 
 AWS_SSO_REGION 
