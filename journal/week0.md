@@ -31,8 +31,9 @@ AWS_REGION
 ```
 I have setup gitpod configuration for this repository by referring document [[1]](#references) which I have linked in references.
 
-## Setup Budgets
-I have setup monthly cost Budget for the AWS Bootcamp in AWS Console and I was able to describe the same using AWSCLI 
+## Create an AWS Budget
+I have setup monthly cost Budget in AWS Console referring to AWS documentation [[2]](#references). 
+I am able to describe the Budget using AWSCLI. 
 ![Budgets](assets/awscli-describe-budgets.png)
 
 ## Setup AWS Cloudshell
@@ -41,3 +42,4 @@ I have setup monthly cost Budget for the AWS Bootcamp in AWS Console and I was a
 ## References
 
 1. [Integrate AWS Single Sign-On (SSO) and Amazon Elastic Container Registry (ECR) with Gitpod](https://www.gitpod.io/guides/integrate-aws-cli-ecr)
+2. [AWS Billing and Cost Management Documentation: Using a budget template (simplified)](https://docs.aws.amazon.com/cost-management/latest/userguide/budget-templates.html)
