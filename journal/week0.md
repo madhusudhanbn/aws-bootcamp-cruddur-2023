@@ -31,6 +31,15 @@ AWS_REGION
 ```
 I have setup gitpod configuration for this repository by referring document [[1]](#references) which I have linked in references.
 
+## Enable Billing
+I have turned on Billing Alerts from AWS Console to recieve alerts.
+
+## Create a Billing Alarm
+I have setup Billing alarm in AWS Console. I am able to describe the Cloudwatch Alarm using AWSCLI.
+
+![Billing Alarm](assets/awscli-cloudwatch-billing-alarm.png)
+
+
 ## Create an AWS Budget
 I have setup monthly cost Budget in AWS Console referring to AWS documentation [[2]](#references). 
 I am able to describe the Budget using AWSCLI. 
