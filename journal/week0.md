@@ -16,8 +16,15 @@
 
 ***
 
-## Setup Gitpod
+## Setup AWS Account
+1. I have protected the root account by Enabling MFA.
+2. Enabled Organizations in AWS account and setup a user called **madhu** in AWS Identity Center. 
+3. Enabled SSO for the user for AWS Console login and enabled MFA. 
 
+## Setup AWS Cloudshell
+![Setup AWS Cloudshell](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-cloudshell-terminal.png)
+
+## Setup Gitpod
 ![Setup Gitpod](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/awscli-gitpod-terminal.png)
 
 I have configured AWS Environment Variables in Gitpod [here](https://gitpod.io/user/variables).
@@ -44,9 +51,6 @@ I have setup Billing alarm in AWS Console. I am able to describe the Cloudwatch 
 I have setup monthly cost Budget in AWS Console referring to AWS documentation [[2]](#references). 
 I am able to describe the Budget using AWSCLI. 
 ![Budgets](assets/awscli-describe-budgets.png)
-
-## Setup AWS Cloudshell
-![Setup AWS Cloudshell](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-cloudshell-terminal.png)
 
 ## References
 
