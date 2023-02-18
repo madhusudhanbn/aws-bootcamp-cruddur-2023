@@ -21,12 +21,13 @@
 ![Setup Gitpod](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/awscli-gitpod-terminal.png)
 
 I have configureed AWS Environment Variables in Gitpod
+```bash
 AWS_SSO_URL 
 AWS_SSO_REGION 
 AWS_ACCOUNT_ID 
 AWS_ROLE_NAME 
 AWS_REGION
-
+```
 I have setup gitpod configuration for this repository by referring document [[1]](#references) which I have linked in references.
 
 ## Setup AWS Cloudshell
