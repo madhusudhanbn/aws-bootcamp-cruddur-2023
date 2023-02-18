@@ -30,6 +30,10 @@ AWS_REGION
 ```
 I have setup gitpod configuration for this repository by referring document [[1]](#references) which I have linked in references.
 
+## Setup Budgets
+I have setup monthly cost Budget for the AWS Bootcamp in AWS Console and I was able to describe the same using AWSCLI 
+![Budgets](assets/awscli-describe-budgets.png)
+
 ## Setup AWS Cloudshell
 ![Setup AWS Cloudshell](https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-cloudshell-terminal.png)
 
