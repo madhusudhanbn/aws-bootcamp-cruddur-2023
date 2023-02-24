@@ -281,7 +281,7 @@ volumes:
 * Codespaces: 60 hours/month, 2 cores, 15 GB free/month. Refer [Codespaces Pricing](https://github.com/features/codespaces) 
 * Don't use AWS Cloud9 as it uses ec2 instances which might cause some charges. 
 
-# Security Considerations
+## Security Considerations
 
 * Keep host & docker updated with latest security patches.
 * Docker daemon & containers should run in non-root user mode.
@@ -294,4 +294,16 @@ volumes:
 * Use DevSecOps practices while building application security.
 * Ensure all code is tested for vulnarabilities before production use.
 
+## Security Tools
 
+* Snyk opensource security - for image vunarability scans. 
+* Refer [Cloud Security Bootcamp](https://www.cloudsecuritybootcamp.com/) for resources related to container security.
+* AWS Inspector: https://aws.amazon.com/inspector/
+* AWS Secret Manager: https://aws.amazon.com/secrets-manager/
+* Clair: https://github.com/quay/clair
+* Snyk Container/ Snyk Open Source Tool: https://snyk.co/cloudbootcamp
+* Snyk Cli - https://docs.snyk.io/snyk-cli/install-the-snyk-cli
+
+## Github Repositories:
+* Vulnerable Dockerfile - https://github.com/snyk-labs/docker-goof
+* Docker Compose Documentation - https://docs.docker.com/compose/gettingstarted/
