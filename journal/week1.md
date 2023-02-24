@@ -274,3 +274,24 @@ volumes:
   db:
     driver: local
 ```
+
+## Pricing Considerations
+
+* Gitpod: 50 hours/month or 1 user, 9 hours/week, 4 cores 8GB RAM, 30GB storage is free. Refer [Gitpod Pricing](https://www.gitpod.io/pricing)
+* Codespaces: 60 hours/month, 2 cores, 15 GB free/month. Refer [Codespaces Pricing](https://github.com/features/codespaces) 
+* Don't use AWS Cloud9 as it uses ec2 instances which might cause some charges. 
+
+# Security Considerations
+
+* Keep host & docker updated with latest security patches.
+* Docker daemon & containers should run in non-root user mode.
+* Image Vulnarability Scanning.
+* Trusting a Private vs Public Image Registry.
+* No sensitive data in Dockerfiles or Images
+* Use secrets management service to store secrets.
+* Read only filesystem and volume for docker.
+* Separate database for long term storage.
+* Use DevSecOps practices while building application security.
+* Ensure all code is tested for vulnarabilities before production use.
+
+
