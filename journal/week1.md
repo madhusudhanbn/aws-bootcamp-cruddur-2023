@@ -275,6 +275,15 @@ volumes:
     driver: local
 ```
 
+## Local database setup
+
+Checking that DynamoDB Local is working
+![DynamoDB Local](assets/dynamodb-local.png)
+
+Checking that PostgreSQL Local is working
+![PostgreSQL Local](assets/postgresql-local.png)
+
+
 ## Pricing Considerations
 
 * Gitpod: 50 hours/month or 1 user, 9 hours/week, 4 cores 8GB RAM, 30GB storage is free. Refer [Gitpod Pricing](https://www.gitpod.io/pricing)
