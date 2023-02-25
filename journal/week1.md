@@ -290,6 +290,15 @@ Checking that PostgreSQL Local is working
 ![PostgreSQL Local](assets/postgresql-local.png)
 
 
+## Images uploaded to Docker Hub
+
+![Frontend Docker Image](assets/dockerhub-frontend-image.png)
+[madhusudhanbn/aws-bootcamp-cruddur-2023-frontend-react-js](https://hub.docker.com/r/madhusudhanbn/aws-bootcamp-cruddur-2023-frontend-react-js)
+ 
+![Backend Docker Image](assets/dockerhub-backend-image.png)
+[aws-bootcamp-cruddur-2023-backend-flask](https://hub.docker.com/r/madhusudhanbn/aws-bootcamp-cruddur-2023-backend-flask)
+
+
 ## Pricing Considerations
 
 * Gitpod: 50 hours/month or 1 user, 9 hours/week, 4 cores 8GB RAM, 30GB storage is free. Refer [Gitpod Pricing](https://www.gitpod.io/pricing)
