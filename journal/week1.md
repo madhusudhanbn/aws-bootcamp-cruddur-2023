@@ -55,6 +55,12 @@ unset BACKEND_URL="*"
 ## Backend Flask API Output
 ![Backend Flask API](assets/backend-flask-api.png)
 
+## Notifications Frontend
+![Notifications Frontend](assets/notifications-frontend.png)
+
+## Notifications API
+![Notifications API](assets/notifications-api.png)
+
 Run in background
 ```sh
 docker container run --rm -p 4567:4567 -d backend-flask
