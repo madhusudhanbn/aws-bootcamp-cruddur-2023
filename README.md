@@ -1,5 +1,13 @@
 # FREE AWS Cloud Project Bootcamp
 
+
+Click one of the button below to start a new development environment:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023) 
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://gitpod.io/#https://github.com/madhusudhanbn/aws-bootcamp-cruddur-2023)
+
+
 - Application: Cruddur
 - Cohort: 2023-A1
 
